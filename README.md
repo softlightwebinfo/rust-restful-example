@@ -1,0 +1,3 @@
+- cargo new hero-api --bin && cd hero-api
+- rustup default nightly
+- rustup update && cargo update
